@@ -55,7 +55,7 @@
   font-weight: bold;
 }
 
-.nav ul li a:hover {
+.nav ul li p:hover {
   text-decoration: underline;
   color: #074870;
 }
@@ -502,7 +502,7 @@ footer > p {
   }
 }
 
-@media (max-width: 565px) {
+@media (max-width: 600px) {
   .head_logo h1 {
     font-size: 22px;
   }
